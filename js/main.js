@@ -230,7 +230,7 @@ $(function() {
       }
     });
   
-    bar.animate(.85);
+    bar.animate(.50);
   
     // Contact form
     $('.art-input').keyup(function() {
